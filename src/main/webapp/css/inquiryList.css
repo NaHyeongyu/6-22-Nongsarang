@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+.inquiry-wrap {
+  width: 100%;
+  max-width: 1200px;
+  margin: 50px auto;
+}
+.inquiry-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.inquiry-table th, .inquiry-table td {
+  border-bottom: 1px solid #ddd;
+  padding: 12px 8px;
+  text-align: center;
+}
+.inquiry-table th {
+  background: #f8f8f8;
+  font-weight: bold;
+}
+.inquiry-table td.title {
+  text-align: center;
+}
+.inquiry-table a.title-link {
+  text-decoration: none;
+  color: #333;
+}
+.write-btn {
+  text-align: right;
+  margin: 20px 0;
+}
+
+.write-btn a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #dd3454;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.write-btn a:hover {
+  background-color: #c02f48;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.pagination button, .pagination span {
+  margin: 0 5px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  cursor: pointer;
+}
+.pagination .active {
+  background: #e20000;
+  color: #fff;
+  border-color: #e20000;
+}
+
+.cstitle {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}

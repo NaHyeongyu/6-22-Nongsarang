@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+.inquiry-container {
+  width: 1200px;
+  margin: 60px auto;
+  padding: 40px;
+  background-color: #fff;
+  height: 700px;
+}
+
+.inquiry-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #222;
+}
+
+.inquiry-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.inquiry-table th,
+.inquiry-table td {
+  padding: 16px;
+  border: 1px solid #ccc;
+  vertical-align: top;
+}
+
+.inquiry-table th {
+  width: 160px;
+  background-color: #f9f9f9;
+  text-align: left;
+  font-weight: 600;
+  color: #333;
+}
+
+.inquiry-table input[type="text"],
+.inquiry-table input[type="password"],
+.inquiry-table input[type="file"],
+.inquiry-table textarea {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.inquiry-table textarea {
+  height: 200px;
+  resize: vertical;
+}
+
+.form-buttons {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.submit-btn,
+.back-btn {
+  padding: 12px 32px;
+  font-size: 16px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit-btn {
+  background-color: #dd3454;
+  color: white;
+}
+
+.back-btn {
+  background-color: #999;
+  color: white;
+}
+
+.submit-btn:hover,
+.reset-btn:hover {
+  opacity: 0.9;
+}
+
+.edit-form {
+	width: 1200px;
+	background-color: white;
+}
