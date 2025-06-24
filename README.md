@@ -22,5 +22,6 @@
 
 
 ## 구현 영상
-<img src="https://github.com/user-attachments/assets/42c501ed-6d6e-427a-b870-18f1078d8734" width="700"/>
+<img src="https://github.com/user-attachments/assets/42c501ed-6d6e-427a-b870-18f1078d8734](https://github.com/user-attachments/assets/2d6961f9-af84-4728-8023-71462b896fd4" width="700"/>
+
 
