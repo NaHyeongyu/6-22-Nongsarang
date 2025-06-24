@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/ea8b5d9d-151a-4a6c-b7cf-04da69081542)
+![Screen Recording 2025-06-24 at 10 43 38](https://github.com/user-attachments/assets/9c27e928-3025-44a4-8681-f2be6f82962d)![2](https://github.com/user-attachments/assets/ea8b5d9d-151a-4a6c-b7cf-04da69081542)
 ![3](https://github.com/user-attachments/assets/4810b7d7-d052-4936-b64a-f48314222bbf)
 ![4](https://github.com/user-attachments/assets/e1abddf0-8d73-4051-9f43-ef1f838a147b)
 ![5](https://github.com/user-attachments/assets/e175e0d5-6095-4d50-a952-4a4ae0343512)
@@ -22,6 +22,8 @@
 
 
 ## 구현 영상
-
-
+로그인
 ![Screen Recording 2025-06-24 at 09 38 18 (1)](https://github.com/user-attachments/assets/8d595b55-c509-499c-8729-fa5255c17936)
+
+게시판 등록, 수정, 삭제
+![Screen Recording 2025-06-24 at 10 43 38](https://github.com/user-attachments/assets/9c972925-9ad8-4546-8f9f-506409e3311f)
