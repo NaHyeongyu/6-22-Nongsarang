@@ -25,5 +25,5 @@
 로그인
 ![Screen Recording 2025-06-24 at 09 38 18 (1)](https://github.com/user-attachments/assets/8d595b55-c509-499c-8729-fa5255c17936)
 
-게시판 등록, 수정, 삭제
+게시판 등록, 수정, 삭제
 ![Screen Recording 2025-06-24 at 10 43 38](https://github.com/user-attachments/assets/9c972925-9ad8-4546-8f9f-506409e3311f)
