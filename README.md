@@ -22,6 +22,5 @@
 
 
 ## 구현 영상
-![Screen Recording 2025-06-24 at 09 38 18](https://github.com/user-attachments/assets/42c501ed-6d6e-427a-b870-18f1078d8734)
-
+<img src="https://github.com/user-attachments/assets/42c501ed-6d6e-427a-b870-18f1078d8734" width="700"/>
 
